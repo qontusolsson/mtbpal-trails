@@ -1,0 +1,6 @@
+{
+  "parkId": "2",
+  "trails": [
+    { "id": "demo-1", "name": "Example trail (TEST ONLY)", "difficulty": "Blue", "geometry": null }
+  ]
+}
