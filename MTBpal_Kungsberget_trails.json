@@ -1,76 +1,77 @@
+
 {
   "parkId": "2",
   "trails": [
     {
       "id": "kungsleden",
       "name": "Kungsleden",
-      "difficulty": null,
+      "difficulty": "Green",
       "geometry": null
     },
     {
       "id": "nintendo",
       "name": "Nintendo",
-      "difficulty": null,
+      "difficulty": "Blue",
       "geometry": null
     },
     {
       "id": "yoshi",
       "name": "Yoshi",
-      "difficulty": null,
+      "difficulty": "Blue",
       "geometry": null
     },
     {
       "id": "flipper",
       "name": "Flipper",
-      "difficulty": null,
+      "difficulty": "Red",
       "geometry": null
     },
     {
       "id": "velodromen",
       "name": "Velodromen",
-      "difficulty": null,
+      "difficulty": "Blue",
       "geometry": null
     },
     {
       "id": "kungsstigen",
       "name": "Kungsstigen",
-      "difficulty": null,
+      "difficulty": "Red",
       "geometry": null
     },
     {
       "id": "skogsfrun",
       "name": "Skogsfrun",
-      "difficulty": null,
+      "difficulty": "Red",
       "geometry": null
     },
     {
       "id": "skuggan",
       "name": "Skuggan",
-      "difficulty": null,
+      "difficulty": "Red",
       "geometry": null
     },
     {
       "id": "nm-banan",
       "name": "NM-banan",
-      "difficulty": null,
+      "difficulty": "Black",
       "geometry": null
     },
     {
       "id": "slash",
       "name": "Slash",
-      "difficulty": null,
+      "difficulty": "Black",
       "geometry": null
     },
     {
       "id": "bjornbusen",
       "name": "Björnbusen",
-      "difficulty": null,
+      "difficulty": "Green",
       "geometry": null
     },
     {
       "id": "bjornbusan",
       "name": "Björnbusan",
-      "difficulty": null,
+      "difficulty": "Green",
       "geometry": null
     }
   ]
